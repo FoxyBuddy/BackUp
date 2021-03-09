@@ -14,6 +14,7 @@ Monkey Buccaneer 铃仙·U·因幡<br />
 Mortar Monkey 蕾米莉亚<br />
 Monkey Ace 射命丸文<br />
 Heli Pilot 东风谷早苗<br />
+Dartling Gunner 帕秋莉<br />
 ### 3.魔法组<br />
 Druid 稀神探女<br />
 Ninja Monkey 十六夜咲夜<br />
